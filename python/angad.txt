@@ -1,0 +1,4 @@
+calculation for angad 
+ 50.0 * 49.9 + 1.8 = 51.7
+ Final pure value: 25.85
+ 

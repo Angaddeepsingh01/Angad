@@ -1,0 +1,4 @@
+calculation for sahil 
+ 60.9 * 92.0 + 1 = 93.0
+ Final pure value: 56.637
+ 
